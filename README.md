@@ -12,10 +12,10 @@ prototypes.
 
 - **Agentic coding workflows** — Claude Code skills, hooks, subagents,
   multi-agent orchestration
-- **OZOS** — a personal operating system for the whole product-leader
-  workflow *(private, for now)*
 - **LLM pipelines** — structured outputs, grounding gates, model routing
   by task
+- **OZOS Brain** — a personal operating system for the whole product-leader
+  workflow *(private, for now)*
 - A couple more experiments not ready for daylight
 
 **Public**
