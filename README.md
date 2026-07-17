@@ -14,12 +14,12 @@ prototypes.
   multi-agent orchestration
 - **LLM pipelines** — structured outputs, grounding gates, model routing
   by task
-- **OZOS Brain** — an AI-powered brain for one product leader: every
-  signal, flow, and decision around my work runs through it — it digests,
-  navigates, and nudges what's next *(private, for now)*
 - **AI-powered observability & reporting layers** — dashboards that watch
   operations daily, push alerts where the team lives, and answer "where
   should I look?" in one click
+- **OZOS Brain** — an AI-powered brain for one product leader: every
+  signal, flow, and decision around my work runs through it — it digests,
+  navigates, and nudges what's next *(private, for now)*
 - A couple more experiments not ready for daylight
 
 **Public**
